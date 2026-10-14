@@ -1,0 +1,6 @@
+{
+  "name": "FLS Factory — Modular App Factory & Ecosystem Hub",
+  "description": "Founder Legal Stack Meta-Agent and live Ecosystem Viewer. Generate, simulate, and interconnect standalone deployable modules for Finance separation, DD Export, and Weekly Digest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
